@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.V2Picker" parent="android:Theme.Material.NoActionBar">
+        <item name="android:statusBarColor">#0E1020</item>
+        <item name="android:navigationBarColor">#0E1020</item>
+        <item name="android:windowBackground">#0E1020</item>
+    </style>
+</resources>
